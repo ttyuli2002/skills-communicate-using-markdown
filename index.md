@@ -10,3 +10,10 @@ Tested different headers by entering # number from 1 to 6
 
 ![Image of cat](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Cat_November_2010-1a.jpg/800px-Cat_November_2010-1a.jpg)
 
+``` java
+System.out.println("Hello World!");
+
+int a = 1;
+int b = Integer.MAX_VALUE / 2;
+System.out.println(a + b);
+```
